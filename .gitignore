@@ -1,6 +1,18 @@
-**/.env
-**/.DS_Store
-**/*.o
+# Env
+.env
+.env.*
 
-**/node_modules/
-**/dist/
+# macOS
+.DS_Store
+Icon?
+
+# VSCode
+.vscode/
+!.vscode/launch.json
+!.vscode/tasks.json
+!.vscode/settings.json
+
+# JetBrains IDEs
+.idea/
+!.idea/codeStyles/
+!.idea/runConfigurations/

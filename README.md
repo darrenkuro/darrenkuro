@@ -6,9 +6,9 @@ I've always been curious and passionate about all things data-, technology-, or 
 
 | Project | Description |
 |--------|-------------|
-| [Transcendence](https://github.com/darrenkuro/ft-transcendence) | A real-time multiplayer 3D Pong game with authentication, matchmaking, and leaderboard system. A full-stack modular architecture using Fastify for backend and a custom reactive vanilla TypeScript frontend, deployed as a Dockerized application behind a Caddy web server. |
-| [Minishell](https://github.com/darrenkuro/ft-minishell) | A simplified shell clone written in C. Supports pipes, redirections, logical operators. |
-| [WebServer](https://github.com/darrenkuro/ft-webserv) | HTTP server in C++ with support for CGI and multiplexing. |
+| [Transcendence](https://github.com/darrenkuro/transcendence) | A real-time multiplayer 3D Pong game with authentication, matchmaking, and leaderboard system. A full-stack modular architecture using Fastify for backend and a custom reactive vanilla TypeScript frontend, deployed as a Dockerized application behind a Caddy web server. |
+| [Minishell](https://github.com/darrenkuro/minishell) | A simplified shell clone written in C. Supports pipes, redirections, logical operators. |
+| [WebServer](https://github.com/darrenkuro/webserv) | HTTP server in C++ with support for CGI and multiplexing. |
 | [Obsidian&nbsp;Plugin](https://github.com/darrenkuro/obsidian-basetag) | Enhances tag rendering in Obsidian using CodeMirror and obsidian plugin API. |
 
 ### 🛠️ Tech Stack
